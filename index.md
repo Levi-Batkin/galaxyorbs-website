@@ -5,7 +5,7 @@ navname: Home
 # Cells at the bottom of the page
 cellLinks:
   - cname: Store
-    curl: map
+    curl: donate
     cimage: media/demo02.jpg
 
   - cname: Screenshots
@@ -13,6 +13,6 @@ cellLinks:
     cimage: media/demo03.jpg
 
   - cname: Discord
-    curl: donate
+    curl: discord
     cimage: media/demo04.jpg
 ---
