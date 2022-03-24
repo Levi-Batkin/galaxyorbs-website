@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: GalaxyOrbs Network
 serverDescription: GalaxyOrbs is a fun multiplayer Minecraft network with tons of fun games! Including Prisons, KitPvP and even more coming for the future!
-serverIP: play.galaxyorbs.net
+serverIP: mc.galaxyorbs.net
 useBedrockForOnlineStatus: false
 
 
