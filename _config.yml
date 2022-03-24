@@ -29,7 +29,7 @@ discordChannelID: 956495857589551164
 # #   newtab - Whether link should open in new tab
 # 
 # siteNav:
-#   - name: Server Map
+#   - name: Donate
 #     url: map
 #     newtab: true
 #   - name: Screenshots
